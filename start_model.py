@@ -18,11 +18,10 @@ ROLE_TOKENS = {
     "system": SYSTEM_TOKEN
 }
 
-# local path to .gguf model
-# 1) choose model, for example: saiga2_7b_gguf
+# Choosing model example:
+# 1) choose model: saiga2_7b_gguf
 # 2) download model: https://huggingface.co/IlyaGusev/saiga2_7b_gguf/tree/main
-# 3) provide local path to model, for example:
-# example: 'E:/saiga_mistral_7b_q4_K/model-q4_K.gguf'
+# 3) write local path to model: 'E:/saiga_mistral_7b_q4_K/model-q4_K.gguf'
 MODEL_PATH = ''
 
 
