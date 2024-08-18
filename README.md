@@ -1,4 +1,4 @@
-# Easy Local GPT
+# Easy Local LLM
 
 ## Table of Contents
 
